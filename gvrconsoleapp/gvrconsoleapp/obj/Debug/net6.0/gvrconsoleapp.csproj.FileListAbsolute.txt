@@ -1,0 +1,15 @@
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\gvrconsoleapp.exe
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\gvrconsoleapp.deps.json
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\gvrconsoleapp.runtimeconfig.json
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\gvrconsoleapp.dll
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\ref\gvrconsoleapp.dll
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\bin\Debug\net6.0\gvrconsoleapp.pdb
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.csproj.AssemblyReference.cache
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.AssemblyInfoInputs.cache
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.AssemblyInfo.cs
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.csproj.CoreCompileInputs.cache
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.dll
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\ref\gvrconsoleapp.dll
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.pdb
+C:\mywork\gvr_practice\gvrconsoleapp\gvrconsoleapp\obj\Debug\net6.0\gvrconsoleapp.genruntimeconfig.cache
